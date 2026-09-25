@@ -10,6 +10,15 @@ was adapted.
 |------|---------|--------|------------|
 |25th September,2025| Churn for Bank Customers     | Kaggle    | It's the right size and complexity for a first serious project, has a direct AUM proxy field (Balance), and gives you published benchmarks to reverse-engineer against       | 
 
+## Data Adaptation
+
+| Original Field | Reinterpreted as | Reason |
+|----------------|------------------|--------|
+| Balance        | PortfolioValue (AUM) |Represents the client's assets held with the firm |
+| Estimated Salary | Kept as-is | Used as a wealth/income indicator, not renamed |
+| NumOfProducts | RelationshipBreadth | Proxy for how embedded the client is with the firm |
+| IsActiveMember | EngagementFlag | Proxy for advisor/platform engagement |
+| Exited | Attrited | Target variable, renamed for framing consistency |
 ## Honesty note
 
 Real wealth-management client data is proprietary and not publicly

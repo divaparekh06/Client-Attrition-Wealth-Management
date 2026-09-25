@@ -6,9 +6,9 @@ was adapted.
 
 ## Data sourcing log
 
-| Date | Dataset | Source | Why chosen | Adaptations made |
-|------|---------|--------|------------|-------------------|
-| TBD  | TBD     | TBD    | TBD        | TBD               |
+| Date | Dataset | Source | Why chosen |
+|------|---------|--------|------------|
+|25th September,2025| Churn for Bank Customers     | Kaggle    | It's the right size and complexity for a first serious project, has a direct AUM proxy field (Balance), and gives you published benchmarks to reverse-engineer against       | 
 
 ## Honesty note
 

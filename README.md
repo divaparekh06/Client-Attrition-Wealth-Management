@@ -46,7 +46,6 @@ use, since real wealth-management client data is proprietary), lives in
 │   ├── reasoning.md           <- full "why this project" writeup
 │   ├── glossary.md             <- finance terms & concepts, explained as I learn them
 │   └── decision-log/           <- dated log of every real decision made, and why
-├── papers/                    <- summaries of papers I reverse-engineered, in my own words
 ├── notebooks/                 <- exploratory & modeling notebooks
 ├── src/                       <- reusable code (data prep, features, models)
 ├── data/                      <- data sourcing notes (raw data not committed)

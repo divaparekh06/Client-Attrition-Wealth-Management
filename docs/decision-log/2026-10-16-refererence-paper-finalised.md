@@ -16,12 +16,12 @@
 
 
 **Reasoning:**
-- Same dataset as yours. It’s the 10,000-row Kaggle bank churn data (Table 3), with about 20% churners (Fig. 2). Your results can be compared directly with theirs.
+- Same dataset as mine. It’s the 10,000-row Kaggle bank churn data (Table 3), with about 20% churners (Fig. 2). My results can be compared directly with theirs.
 - Clear baseline numbers to beat. Tables 4 and 5 give accuracy, sensitivity, specificity, AUC and F1 for four models (logistic regression, SVM, random forest, XGBoost), with and without SMOTE.
-- It shows the imbalance problem in action. Without SMOTE, sensitivity is only 12–44%. With SMOTE it rises to 60–71%, and accuracy drops. That tradeoff is worth reproducing and explaining yourself.
+- It shows the imbalance problem in action. Without SMOTE, sensitivity is only 12–44%. With SMOTE it rises to 60–71%, and accuracy drops. That tradeoff is worth reproducing and explaining myself.
 - The authors say why accuracy isn’t enough. They name sensitivity as the key metric for churn.
 - Useful EDA and feature engineering. They find that churn rises with age (especially after 40), that Germany is the highest-churn country, and that customers with two products stay while those with three leave. They also build three features: TenureByAge, BalanceSalaryRatio and CreditScoreGivenAge.
 - Honest about its limits. The conclusion admits the data is limited and has no recency features (behavior just before leaving). It suggests country-specific models and automated retraining.
-- Good reading leads in its references. It cites Schaeffer & Sanchez (2020), which is your Paper 2. It also cites Lemmens & Gupta (2020) on managing churn for profit, Guliyev & Tatoglu (2021) on explainable ML for bank churn, and Machado & Karray (2022) on customer risk-adjusted revenue. The last three look relevant to your value-at-risk and SHAP angle.
+- Good reading leads in its references. It cites Schaeffer & Sanchez (2020). It also cites Lemmens & Gupta (2020) on managing churn for profit, Guliyev & Tatoglu (2021) on explainable ML for bank churn, and Machado & Karray (2022) on customer risk-adjusted revenue. The last three look relevant to my value-at-risk and SHAP angle.
 
 

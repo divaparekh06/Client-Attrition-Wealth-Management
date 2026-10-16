@@ -1,7 +1,8 @@
 # Reference Paper for the review is Finalised
 
 **Date:** 2026-10-26
-**Context:**I was required to finalize a base paper to start my work for this project, where I would first be required to review this paper, followed by making a standard, quality ML Project based on my leaarnings and then eventually writing and publishing a research paper.
+**Context:** I was required to finalize a base paper to start my work for this project, where I would first be required to review this paper, followed by making a standard, quality ML Project based on my leaarnings and then eventually writing and publishing a research paper.
+
 **Options considered:** The other research papers I considered were:
 1. Investigating customer churn in banking: a machine learning approach and visualization app for data science and management (source: https://www.sciencedirect.com/science/article/pii/S2666764923000401)
 2. Forecasting Client Retention - A machine learning Approach (source: https://www.sciencedirect.com/science/article/abs/pii/S0969698919302668)

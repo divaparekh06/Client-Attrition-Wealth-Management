@@ -1,6 +1,8 @@
 # Reference Paper for the review is Finalised
 
 **Date:** 2026-10-26
+
+
 **Context:** I was required to finalize a base paper to start my work for this project, where I would first be required to review this paper, followed by making a standard, quality ML Project based on my leaarnings and then eventually writing and publishing a research paper.
 
 **Options considered:** The other research papers I considered were:
@@ -8,7 +10,11 @@
 2. Forecasting Client Retention - A machine learning Approach (source: https://www.sciencedirect.com/science/article/abs/pii/S0969698919302668)
 3. Reducing Customer Attrition with Machine Learning for Financial Institutions (source: http://support.sas.com/resources/papers/proceedings18/1769-2018.pdf)
 4. Offestting Client Attrition - A playbook for wealth managers (source: https://alphafmc.com/insights/offsetting-client-attrition-a-playbook-for-wealth-managers/)
+
+
 **Decision:** Investigating customer churn in banking: a machine learning approach and visualization app for data science and management
+
+
 **Reasoning:**
 - Same dataset as yours. It’s the 10,000-row Kaggle bank churn data (Table 3), with about 20% churners (Fig. 2). Your results can be compared directly with theirs.
 - Clear baseline numbers to beat. Tables 4 and 5 give accuracy, sensitivity, specificity, AUC and F1 for four models (logistic regression, SVM, random forest, XGBoost), with and without SMOTE.

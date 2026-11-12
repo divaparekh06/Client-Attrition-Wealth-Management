@@ -22,10 +22,6 @@ Create a new file: `YYYY-MM-DD-short-title.md`, using this template:
 **Options considered:** What were the alternatives?
 **Decision:** What did I choose?
 **Reasoning:** Why this option over the others?
-**AI tool usage (if any):** Did I use AI here? For what specifically —
-  explaining a concept, critiquing a decision I'd already made, debugging
-  code? (Be specific and honest.)
-**Outcome / what I'd revisit:** (fill in later, once you see results)
 ```
 
 

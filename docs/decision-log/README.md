@@ -1,6 +1,6 @@
 # Decision Log
 
-Every real decision made on this project gets its own dated entry here —
+Every real decision made on this project gets its own dated entry here:
 what was decided, why, what alternatives were considered, and (where
 relevant) what AI tools were used for and how.
 
@@ -28,5 +28,4 @@ Create a new file: `YYYY-MM-DD-short-title.md`, using this template:
 **Outcome / what I'd revisit:** (fill in later, once you see results)
 ```
 
-A first example entry (`2026-09-01-project-and-subdomain-selection.md`) is
-included to show the format in practice.
+
